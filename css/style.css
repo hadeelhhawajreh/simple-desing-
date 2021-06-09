@@ -94,3 +94,32 @@ input {
         margin-top:30%;
     }
 }
+@media (min-width: 767px) {
+    input {
+        margin-bottom: 2%;
+        width: 70%;
+        height: 9%;
+        padding: 1%;
+    }
+
+    #btn {
+        width: 40%;
+        height: 30px;
+        background-color: red;
+        margin-left: 34%;
+        color: white;
+        border: none;
+        text-align: center;
+        padding: 5px;
+    }
+    footer{
+        margin-top: 20%;
+    }
+
+    #main-form{
+        margin-left:40%;
+        margin-right:10%;
+        margin-top:10%;
+    }
+    
+}
